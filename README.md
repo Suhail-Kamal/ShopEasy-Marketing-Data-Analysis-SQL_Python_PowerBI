@@ -17,10 +17,10 @@ This data analysis project aims to provide insights into the Marketing performan
 
 ### Tools Used
 
-- SQL Server Express 2022 - Database engine that i used to Restore and attach the Marketing Data Analysis Backup Database file.
-- SQL Server Management Studio - Tool that i used to interact with my SQL Server to run queries and manage database.
-- VS Code - Used to do Sentimental Analysis Using Python (By using customer Reviews)
-- PowerBI - Used to Create Dashboards.
+- **SQL Server Express 2022** - Database engine that i used to Restore and attach the Marketing Data Analysis Backup Database file.
+- **SQL Server Management Studio** - Tool that i used to interact with my SQL Server to run queries and manage database.
+- **VS Code** - Used to do Sentimental Analysis Using Python (By using customer Reviews)
+- **PowerBI** - Used to Create Dashboards.
 
 ### Process
 
