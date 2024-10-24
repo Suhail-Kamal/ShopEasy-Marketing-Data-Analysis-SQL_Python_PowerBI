@@ -10,8 +10,8 @@ This data analysis project aims to provide insights into the Marketing performan
 
 ### Questions to focus on (KPIs) :
 
-- **Reduced Customer Engagement:** The number of customer interactions and engagement with the site and marketing content has declined.
 - **Decreased Conversion Rates:** Fewer site visitors are converting into paying customers.
+- **Reduced Customer Engagement:** The number of customer interactions and engagement with the site and marketing content has declined.
 - **High Marketing Expenses:** Significant investments in marketing campaigns are not yielding expected returns.
 - **Need for Customer Feedback Analysis:** Understanding customer opinions about products and services is crucial for improving engagement and conversions.
 
