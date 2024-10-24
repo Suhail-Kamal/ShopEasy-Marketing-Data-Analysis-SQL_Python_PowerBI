@@ -3,9 +3,7 @@
 
 This data analysis project aims to provide insights into the Marketing performance of ShopEasy, an online retail business, which is facing reduced customer engagement and conversion rates despite launching several new online marketing campaigns. 
 
-
-
-
+- <a href="https://github.com/Suhail-Kamal/ShopEasy-Marketing-Data-Analysis-SQL_Python_PowerBI/blob/main/Shopeasy%20Marketing%20Analysis%20Dashboard.pbix">PowerBI Dashboard</a>
 
 ### Dataset used
 - <a href="https://github.com/Suhail-Kamal/ShopEasy-Marketing-Data-Analysis-SQL_Python_PowerBI/blob/main/PortfolioProject_MarketingAnalytics.bak">Dataset</a>
@@ -75,6 +73,12 @@ Although stable, the average rating is below the target of 4.0, suggesting a nee
 
 ### Project Insights Overview
 ![Overview](https://github.com/user-attachments/assets/e110b055-1ebe-4504-bcb1-47796a7b7800)
+![Conversion Details](https://github.com/user-attachments/assets/2689cb54-d237-4000-b6ea-43fe34f6d99b)
+![Social Media Details](https://github.com/user-attachments/assets/d576ba42-97fe-46ad-8a9d-0d69122aab93)
+![Customer Review Details](https://github.com/user-attachments/assets/8acecd0c-4195-4315-ad77-3ecf2a3db1b6)
+
+
+
 
 ### Actions
 - **Increase Conversion Rates:** Target High-Performing Product Categories: Focus marketing efforts on products with demonstrated high conversion rates, such as Kayaks, Ski Boots, and Baseball Gloves. Implement seasonal promotions or personalized campaigns during peak months (e.g., January and September) to capitalize on these trends.
